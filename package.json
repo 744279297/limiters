@@ -1,0 +1,28 @@
+{
+  "name": "@nx-js/limiters",
+  "version": "1.0.0",
+  "description": "Limiters for the NX compiler util.",
+  "main": "index.js",
+  "author": {
+    "name": "Miklos Bertalan",
+    "email": "miklos.bertalan@risingstack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nx-js/limiters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nx-js/limiters/issues"
+  },
+  "homepage": "http://nx-framework.com",
+  "license": "MIT",
+  "keywords": [
+    "nx",
+    "limiters",
+    "compile"
+  ],
+  "dependencies": {
+    "@nx-js/compiler-util": "^1.0.0",
+    "keycode": "^2.1.4"
+  }
+}
