@@ -11,4 +11,4 @@ following limiters.
 - key: Only handles the event if it matches with one of the keys provided as arguments. If the event is not a keyboard event, this limiter has no effect. For the name of special keys see [this page](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key).
 
 You can learn more
-about NX rate limiters [here](http://nx-framework/docs/middlewares/interpolate).
+about NX rate limiters [here](http://nx-framework.com/docs/middlewares/interpolate).
